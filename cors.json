@@ -1,0 +1,17 @@
+[
+    {
+      "origin": ["*"],
+      "responseHeader": ["Content-Type",
+         "Origin",
+         "Accept",
+          "Access-Control-Allow-Origin",
+           "authentication",
+           "x-goog-resumable",
+            "x-goog-meta-filedisplayname",
+             "x-goog-meta-cache-control",
+               "x-goog-meta-subconfig",
+            ,"*"],
+      "method": ["GET", "POST", "PUT", "OPTIONS"],
+      "maxAgeSeconds": 3600
+    }
+]
